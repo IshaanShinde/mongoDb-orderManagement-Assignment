@@ -1,0 +1,5 @@
+python3 -m venv mongoDb_crud_venv
+
+mongoDb_crud_venv\Scripts\activate
+
+deactivate
